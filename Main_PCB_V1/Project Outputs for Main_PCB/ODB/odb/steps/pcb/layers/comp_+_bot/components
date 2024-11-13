@@ -1,0 +1,388 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 29 53.49999968 53.00000068 0 N J4 5-1634503-1 ;0=2,1=13.7000
+PRP Coaxial_Cable_Types '-'
+PRP Coaxial_Termination 'Solder'
+PRP Connector_Body_Style 'StraightJack'
+PRP Connector_Mounting 'PCBMount'
+PRP Connector_Type 'BNCCoaxial'
+PRP Contact_Material 'Brass'
+PRP Contact_Plating 'GoldPlatedContacts'
+PRP Datasheet_URL 'http://www.mouser.com/ds/2/418/NG_CD_1634503_E-657474.pdf'
+PRP Datasheet_Version 'Rev. E, 02/2012'
+PRP Frequency_Max '2GHz'
+PRP Impedance '50ohm'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Mounting_Technology 'ThroughHole'
+PRP Package_Description 'Female Header, Pitch 3.13 mm, Height 13.7 mm, Tail Length 4.5 mm'
+PRP Package_Reference '5-1634503-1'
+PRP PartNumber '5-1634503-1'
+PRP Product_Range '-'
+PRP SVHC 'NoSVHC(15-Jun-2015)'
+TOP 0 53.49999968 53.00000068 180 N 47 1 J4-1
+TOP 1 56.6299985 56.1299995 270 N 61 53 J4-2
+TOP 2 56.6299985 49.87000186 0 N 61 52 J4-3
+TOP 3 50.37000086 49.87000186 90 N 61 51 J4-4
+TOP 4 50.37000086 56.1299995 180 N 61 54 J4-5
+#
+# CMP 1
+CMP 3 6.0000007 67.00000062 0 N C21 100nF ;0=1,1=1.1000
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '100nF'
+PRP Voltage '100V'
+TOP 0 6.849999 67.00000062 270 N 1 5 C21-1
+TOP 1 5.14999986 67.00000062 270 N 61 6 C21-2
+#
+# CMP 2
+CMP 3 35.99999912 72.49999978 0 N C20 100nF ;0=1,1=1.1000
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '100nF'
+PRP Voltage '100V'
+TOP 0 36.84999742 72.49999978 270 N 1 4 C20-1
+TOP 1 35.14999828 72.49999978 270 N 61 5 C20-2
+#
+# CMP 3
+CMP 5 2.50000008 22.50000072 270 N C19 100nF ;0=1,1=1.3500
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '100nF'
+PRP Voltage '100V'
+TOP 0 2.50000008 20.95000128 0 N 61 2 C19-1
+TOP 1 2.50000008 24.05000016 0 N 1 3 C19-2
+#
+# CMP 4
+CMP 23 8.99999978 24.00000026 180 N R20 20K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 7.45000034 24.00000026 90 N 5 1 R20-1
+TOP 1 10.54999922 24.00000026 90 N 1 2 R20-2
+#
+# CMP 5
+CMP 23 4.50000116 9.49999878 0 N R19 20K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 6.0500006 9.49999878 270 N 61 1 R19-1
+TOP 1 2.95000172 9.49999878 270 N 4 1 R19-2
+#
+# CMP 6
+CMP 23 2.50000008 13.99999994 270 N R18 120 ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 2.50000008 12.4500005 0 N 4 0 R18-1
+TOP 1 2.50000008 15.54999938 0 N 5 0 R18-2
+#
+# CMP 7
+CMP 23 11.49999986 10.00000032 180 N R17 10K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 9.95000042 10.00000032 90 N 2 0 R17-1
+TOP 1 13.0499993 10.00000032 90 N 1 1 R17-2
+#
+# CMP 8
+CMP 23 16.50000002 24.49999926 180 N R16 10K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 14.95000058 24.49999926 90 N 20 0 R16-1
+TOP 1 18.04999946 24.49999926 90 N 3 0 R16-2
+#
+# CMP 9
+CMP 23 65.50000108 54.99999922 180 N R12 20 ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 63.95000164 54.99999922 90 N 32 0 R12-1
+TOP 1 67.05000052 54.99999922 90 N 7 0 R12-2
+#
+# CMP 10
+CMP 23 19.4999991 35.50000012 180 N R11 560 ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 17.94999966 35.50000012 90 N 52 0 R11-1
+TOP 1 21.04999854 35.50000012 90 N 39 0 R11-2
+#
+# CMP 11
+CMP 23 44.9999989 25.0000008 0 N R10 100K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 46.54999834 25.0000008 270 N 50 0 R10-1
+TOP 1 43.44999946 25.0000008 270 N 63 0 R10-2
+#
+# CMP 12
+CMP 23 57.0000003 31.5000005 180 N R9 100K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 55.45000086 31.5000005 90 N 64 0 R9-1
+TOP 1 58.54999974 31.5000005 90 N 51 0 R9-2
+#
+# CMP 13
+CMP 22 15.00000048 48.34999982 90 N R8 10K ;0=1,1=0.6100
+PRP Category 'Resistors'
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology 'Surface Mount\Through-Hole'
+PRP PackageDescription 'SMD & TH Resistors'
+PRP Pin_Count ''
+PRP Power '1/8 W'
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 15.00000048 49.69999966 180 N 11 0 R8-1
+TOP 1 15.00000048 46.99999998 180 N 65 0 R8-2
+#
+# CMP 14
+CMP 24 16.50000002 5.54999906 90 N R3 560 ;0=1,1=0.4000
+PRP Data '16-12-2016'
+PRP Desc. 'RES SMD 1206'
+PRP Designer 'Abbas Basereh'
+TOP 0 16.50000002 7.50000024 180 N 65 1 R3-1
+TOP 1 16.50000002 3.60000042 180 N 53 0 R3-2
+#
+# CMP 15
+CMP 24 58.99999376 10.99999832 270 N R2 560 ;0=1,1=0.4000
+PRP Data '16-12-2016'
+PRP Desc. 'RES SMD 1206'
+PRP Designer 'Abbas Basereh'
+TOP 0 58.99999376 9.04999714 0 N 1 0 R2-1
+TOP 1 58.99999376 12.94999696 0 N 54 0 R2-2
+#
+# CMP 16
+CMP 24 37.5000012 21.99999918 180 N R1 1K ;0=1,1=0.4000
+PRP Data '16-12-2016'
+PRP Desc. 'RES SMD 1206'
+PRP Designer 'Abbas Basereh'
+TOP 0 35.55000002 21.99999918 90 N 59 0 R1-1
+TOP 1 39.44999984 21.99999918 90 N 55 0 R1-2
+#
+# CMP 17
+CMP 5 22.94999982 61.49999892 180 N C16 1uF ;0=1,1=1.3500
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '1uF'
+PRP Voltage '100V'
+TOP 0 21.40000038 61.49999892 90 N 62 0 C16-1
+TOP 1 24.49999926 61.49999892 90 N 61 0 C16-2
+#
+# CMP 18
+CMP 5 29.49999942 28.49999888 0 N C9 100nF ;0=1,1=1.3500
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '100nF'
+PRP Voltage '100V'
+TOP 0 31.04999886 28.49999888 270 N 57 0 C9-1
+TOP 1 27.94999998 28.49999888 270 N 61 3 C9-2
+#
+# CMP 19
+CMP 4 58.99999884 37.5000012 270 N C7 100nF ;0=1,1=1.3500
+PRP Category ''
+PRP Company 'SJ Libraries'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Reference'
+PRP ComponentLink2URL ''
+PRP Designer 'Eng. Saeid Jorablo'
+PRP HelpURL 'http://s3.picofile.com/file/7443264187/Coming_Soon_logo.gif'
+PRP Mounting_Technology ''
+PRP PackageDescription ''
+PRP Pin_Count ''
+PRP Publisher 'SJ Unlimited'
+PRP Status 'Unreleased'
+PRP Value '100nF'
+PRP Voltage '100V'
+TOP 0 58.99999884 36.15000136 0 N 65 2 C7-1
+TOP 1 58.99999884 38.85000104 0 N 61 4 C7-2
+#

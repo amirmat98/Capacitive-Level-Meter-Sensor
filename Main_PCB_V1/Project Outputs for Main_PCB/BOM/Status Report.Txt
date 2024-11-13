@@ -1,0 +1,10 @@
+Output: Save As/Export PCB
+Type  : Universal Exporter
+From  : PCB Document [PCB4.PcbDoc]
+   Generated File[PCB4.PcbDoc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:57:20 PM On 7/14/2021

@@ -1,0 +1,11 @@
+------------------------------------------------------------
+Design Hierarchy Report for Main_PCB.PrjPcb
+-- 7/14/2021
+-- 3:56:08 PM
+------------------------------------------------------------
+
+Main_Board                    SCH        (Main_Board.SchDoc)
+    LCD_D                     SCH        (LCD.SchDoc)
+    MCU_D                     SCH        (MCU.SchDoc)
+    Power_D                   SCH        (Power.SchDoc)
+    Timer555_D                SCH        (Timer555.SchDoc)
